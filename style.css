@@ -138,11 +138,13 @@ nav.sticky ul{
     height: 65vh;
     min-height: 876px;
     background: no-repeat center center scroll;
+    background-color: rgba(0, 0, 0, 0.7);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
+
 
 /*--------------------------------------------------------------
 # Sections General
